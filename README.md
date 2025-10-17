@@ -2,7 +2,7 @@
 
 
 
-Passing the Torch to Cultivate the Next Generation of Turing Award Laureates  
+## Passing the Torch to Cultivate the Next Generation of Turing Award Laureates  
 
 As a core direction in the strategic priorities of the global chip industry and technology powerhouses, RISC-V, with its efficient instruction set, royalty-free licensing, and flexible extensibility, is reshaping the technical landscape of GPUs in large language model computing. This course focuses on the hot interdisciplinary frontiers of RISC-V open-source architecture and GPU design, constructing an exploratory knowledge system spanning from instruction sets to many-core computing architectures. It aims to achieve entry into RISC-V GPU architecture in the shortest path while exploring the application potential of technologies such as 2.5D/3D/3.5D Chiplet and open-source EDA in open-source GPUs. Beyond passing the torch of knowledge, the course takes "cultivating the next generation of Turing Award laureates" as its ultimate goal. Through a trinity training model of "theory-practice-innovation," it inspires students' deep insights into core architectures and their ability to innovate disruptively.  
 
@@ -16,21 +16,33 @@ From the intricacies of the RISC-V instruction set to the grand design of GPU ma
 
 
 
-# Syllabus（2025/Draft）
+## Syllabus（2025/Draft）
 
 
 
 **RISC-V based Open-Source GPU Architecture and Design Exploration（Open Course）**
 
-| Week课周 | Date日期 | Daily Topic of Teaching Content授课内容当天主题              | Guest/Video Sharing Content嘉宾分享内容                      | Technical Report Content技术报告内容 |
-| -------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------ |
-| Week 1   | 10-18    | Course Overview and GPU Introduction课程概述与GPU简介        | >>Berkeley Approach to Graduate Education in EECS（David Patterson Video） | Technical Report                     |
-| Week 2   | 10-25    | RISC-V Instruction Set and ArchitectureRISC-V指令集与架构    | AI Chip History                                              | Technical Report                     |
-| Week 3   | 11-01    | SoC Design Flow and OpenEDASoC设计流程与OpenEDA              | OpenLane                                                     | Technical Report                     |
-| Week 4   | 11-08    | GPU Architecture and Open-Source RISC-V GPUGPU架构与开源RISC-V GPU | >Tsinghua: Introduction to Ventus GPGPU Architecture         | Technical Report                     |
-| Week 5   | 11-15    | 2.5D/3D/3.5D Architecture and Memory Compute Integration2.5D/3D/3.5D架构与存算一体 | >Missouri University: EDA Design Flow for Advanced Packaging/Integration | Technical Report                     |
-| Week 6   | 11-22    | Tensor Core (TensorCore) and Transformer张量核心（TensorCore）与Transformer | Introduction to TPU Architecture                             | Technical Report                     |
-| Week 7   | 11-29    | Memory Architecture and On-Chip Network (NoC)存储架构与片上网络（NoC） | Advanced Memory (HBM or Hybrid Bonding DRAM)                 | Technical Report                     |
-| Week 8   | 12-06    | GPU Programming with CUDA/OpenCLGPU编程与CUDA/OpenCL         | A Compilation Platform                                       | Technical Report                     |
-| Week 9   | 12-13    | GPU Compiler and TritonGPU编译器与Triton                     | High-Level Compiler Platform                                 | Technical Report                     |
-| Week 10  | 12-20    | GPU Deployment Acceleration and DeepSeek Optimization PrinciplesGPU部署加速与deepseek优化原理 | Cross-Platform Acceleration Framework                        | Technical Report                     |
+| Week    | Date     | Daily Topic of Teaching Content                              | Guest/Video Sharing Content                                  | Technical Report Content                |
+| ------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------- |
+| 课周    | 日期     | 授课内容当天主题                                             | 嘉宾分享内容                                                 | 技术报告内容                            |
+|         |          | 9:00-9:50                                                    | 10:00-10:50                                                  | 11:00-11:50                             |
+| Week 1  | 10月18日 | Course Overview and GPU Introduction                         | Berkeley Approach to Graduate Education in EECS（David Patterson Video） | Data Format and Converter Design in GPU |
+|         |          | RIOS与零一代表讲话 课程概述与GPU简介（陈）                   | 伯克利EECS教学模式（大卫·帕特森视频）                        | GPU中的数据格式与转换（沈）             |
+| Week 2  | 10月25日 | SoC Design Flow and OpenEDA                                  | Synopsys or UC San Diego: EDA flow                           | Technical Report                        |
+|         |          | SoC设计流程与OpenEDA（陈）                                   |                                                              |                                         |
+| Week 3  | 11月1日  | RISC-V Instruction Set and Architecture                      | Tenstorrent: RISC-V IP                                       | Technical Report                        |
+|         |          | RISC-V指令集与架构（任）                                     |                                                              |                                         |
+| Week 4  | 11月8日  | GPU Architecture and Open-Source RISC-V GPU                  | Tsinghua: Introduction to Ventus GPGPU Architecture          | Technical Report                        |
+|         |          | GPU架构与开源RISC-V GPU（陈）                                |                                                              |                                         |
+| Week 5  | 11月15日 | 2.5D/3D/3.5D Architecture and Memory Compute Integration     | DeToolIC: EDA Design Flow for Advanced Packaging/ Integration | Technical Report                        |
+|         |          | 2.5D/3D/3.5D架构与存算一体                                   |                                                              |                                         |
+| Week 6  | 11月22日 | Tensor Core (TensorCore) and Transformer                     | Introduction to TPU Architecture                             | Technical Report                        |
+|         |          | 张量核心（TensorCore）与Transformer                          |                                                              |                                         |
+| Week 7  | 11月29日 | Memory Architecture and On-Chip Network (NoC)                | GigaDevice: Advanced Memory (HBM or Hybrid Bonding DRAM)     | Technical Report                        |
+|         |          | 存储架构与片上网络（NoC）                                    |                                                              |                                         |
+| Week 8  | 12月6日  | GPU Programming with CUDA/OpenCL                             | A Compilation Platform                                       | Technical Report                        |
+|         |          | GPU编程与CUDA/OpenCL                                         |                                                              |                                         |
+| Week 9  | 12月13日 | GPU Compiler and Triton                                      | High-Level Compiler Platform                                 | Technical Report                        |
+|         |          | GPU编译器与Triton                                            |                                                              |                                         |
+| Week 10 | 12月20日 | GPU Deployment Acceleration and DeepSeek Optimization Principles | Cross-Platform Acceleration Framework                        | Technical Report                        |
+|         |          | GPU部署加速与deepseek优化原理                                |                                                              |                                         |
