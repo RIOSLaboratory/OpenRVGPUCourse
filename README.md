@@ -48,3 +48,11 @@ From the intricacies of the RISC-V instruction set to the grand design of GPU ma
 |         |          | GPU编译器与Triton                                            |                                                              |                                         |
 | Week 10 | 12月20日 | GPU Deployment Acceleration and DeepSeek Optimization Principles | Cross-Platform Acceleration Framework                        | Technical Report                        |
 |         |          | GPU部署加速与deepseek优化原理                                |                                                              |                                         |
+
+
+
+## Lecture Main Contributor
+
+![image-20251018165731877](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20251018165731877.png)
+
+![image-20251018170039531](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20251018170039531.png)
