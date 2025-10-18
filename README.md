@@ -49,6 +49,8 @@ From the intricacies of the RISC-V instruction set to the grand design of GPU ma
 | Week 10 | 12月20日 | GPU Deployment Acceleration and DeepSeek Optimization Principles | Cross-Platform Acceleration Framework                        | Technical Report                        |
 |         |          | GPU部署加速与deepseek优化原理                                |                                                              |                                         |
 
+## Guest Expert
+
 
 
 ## Lecture Main Contributor
