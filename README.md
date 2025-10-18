@@ -53,6 +53,6 @@ From the intricacies of the RISC-V instruction set to the grand design of GPU ma
 
 ## Lecture Main Contributor
 
-![image-20251018165731877](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20251018165731877.png)
+![image-20251018172931236](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20251018172931236.png)
 
 ![image-20251018170039531](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20251018170039531.png)
