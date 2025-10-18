@@ -55,4 +55,4 @@ From the intricacies of the RISC-V instruction set to the grand design of GPU ma
 
 ![image-20251018172931236](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20251018172931236.png)
 
-![image-20251018170039531](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20251018170039531.png)
+![image-20251018180158117](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20251018180158117.png)
