@@ -29,7 +29,7 @@ From the intricacies of the RISC-V instruction set to the grand design of GPU ma
 | 课周    | 日期     | 授课内容当天主题                                             | 嘉宾分享内容                                                 | 技术报告内容                            |
 |         |          | 9:00-9:50                                                    | 10:00-10:50                                                  | 11:00-11:50                             |
 | Week 1  | 10月18日 | Course Overview and GPU Introduction                         | Berkeley Approach to Graduate Education in EECS（David Patterson Video） | Data Format and Converter Design in GPU |
-|         |          | RIOS与零一代表讲话 课程概述与GPU简介（陈）                   | 伯克利EECS教学模式（大卫·帕特森视频）                        | GPU中的数据格式与转换（沈）             |
+|         |          | 课程概述与GPU简介（陈）                   | 伯克利EECS教学模式（大卫·帕特森视频）                        | GPU中的数据格式与转换（沈）             |
 | Week 2  | 10月25日 | SoC Design Flow and OpenEDA                                  | Synopsys or UC San Diego: EDA flow                           | Technical Report                        |
 |         |          | SoC设计流程与OpenEDA（陈）                                   |                                                              |                                         |
 | Week 3  | 11月1日  | RISC-V Instruction Set and Architecture                      | Tenstorrent: RISC-V IP                                       | Technical Report                        |
