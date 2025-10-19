@@ -57,5 +57,6 @@ From the intricacies of the RISC-V instruction set to the grand design of GPU ma
 
 ![image-20251018172931236](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20251018172931236.png)
 
-![image-20251019111753291](C:/Users/i/AppData/Roaming/Typora/typora-user-images/image-20251019111753291.png)
+<img width="933" height="62" alt="image" src="https://github.com/user-attachments/assets/39c5d16e-9783-49a6-b9ed-25f4c363db97" />
+
 
