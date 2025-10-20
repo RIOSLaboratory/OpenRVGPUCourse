@@ -2,7 +2,7 @@
 
 
 
-1. ![img](https://raw.githubusercontent.com/chenweiphd/typopic/master/%E8%AF%BE%E7%A8%8Blogo.png)
+![img](https://raw.githubusercontent.com/chenweiphd/typopic/master/%E8%AF%BE%E7%A8%8Blogo.png)
 
 ## Passing the Torch to Cultivate the Next Generation of Turing Award Laureates  
 
