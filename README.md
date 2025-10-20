@@ -2,6 +2,8 @@
 
 
 
+![img](https://raw.githubusercontent.com/chenweiphd/typopic/master/%E8%AF%BE%E7%A8%8Blogo.png)
+
 ## Passing the Torch to Cultivate the Next Generation of Turing Award Laureates  
 
 As a core direction in the strategic priorities of the global chip industry and technology powerhouses, RISC-V, with its efficient instruction set, royalty-free licensing, and flexible extensibility, is reshaping the technical landscape of GPUs in large language model computing. This course focuses on the hot interdisciplinary frontiers of RISC-V open-source architecture and GPU design, constructing an exploratory knowledge system spanning from instruction sets to many-core computing architectures. It aims to achieve entry into RISC-V GPU architecture in the shortest path while exploring the application potential of technologies such as 2.5D/3D/3.5D Chiplet and open-source EDA in open-source GPUs. Beyond passing the torch of knowledge, the course takes "cultivating the next generation of Turing Award laureates" as its ultimate goal. Through a trinity training model of "theory-practice-innovation," it inspires students' deep insights into core architectures and their ability to innovate disruptively.  
