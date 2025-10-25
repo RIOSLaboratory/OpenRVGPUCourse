@@ -53,13 +53,23 @@ From the intricacies of the RISC-V instruction set to the grand design of GPU ma
 
 
 
+## Exploring Projects
+
+OpenTensorCore
+
+Open3DNoC
+
+OpenRVGPU
+
+OpenLLMRoad
+
 
 
 ## Guest Expert
 
 
 
-## Lecture Main Contributor
+## Main Contributor of Lecture 
 
 ![image-20251018172931236](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20251018172931236.png)
 
