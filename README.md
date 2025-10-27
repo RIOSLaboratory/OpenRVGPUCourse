@@ -26,32 +26,30 @@ From the intricacies of the RISC-V instruction set to the grand design of GPU ma
 
 **RISC-V based Open-Source GPU Architecture and Design Exploration（Open Course）**
 
-| Week    | Date     | Daily Topic of Teaching Content                              | Guest/Video Sharing Content                                  | Technical Report Content                                |
-| ------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------- |
-| 课周    | 日期     | 授课内容当天主题                                             | 嘉宾分享内容                                                 | 技术报告内容                                            |
-|         |          | 9:00-9:50                                                    | 10:00-10:50                                                  | 11:00-11:50                                             |
-| Week 1  | 10月18日 | Course Overview and GPU Introduction                         | UC Brekley: Berkeley Approach to Graduate Education in EECS（David Patterson） | Data Format and Converter Design in GPU                 |
-|         |          | 课程概述与GPU简介（陈）                                      | 加州伯克利：伯克利EECS教学模式（大卫·帕特森）                | GPU中的数据格式与转换                                   |
-| Week 2  | 10月25日 | SoC Design Flow and OpenEDA                                  | UC San Diego: OpenROAD-The Journey so far and Roadmap（Andrew Kahng） | OpenTensorCore Architecture<br />Open3DNoC Architecture |
-|         |          | SoC设计流程与OpenEDA（陈）                                   | 加州圣地亚哥：OpenROAD进展与路线图（Andrew Kahng）           | OpenTensorCore 架构<br />Open3DNoC 架构                 |
-| Week 3  | 11月1日  | RISC-V Instruction Set and Architecture                      | Tenstorrent: RISC-V IP                                       | Technical Report                                        |
-|         |          | RISC-V指令集与架构（任）                                     |                                                              |                                                         |
-| Week 4  | 11月8日  | GPU Architecture and Open-Source RISC-V GPU                  | Tsinghua: Introduction to Ventus GPGPU Architecture          | Technical Report                                        |
-|         |          | GPU架构与开源RISC-V GPU（陈）                                |                                                              |                                                         |
-| Week 5  | 11月15日 | 2.5D/3D/3.5D Architecture and Memory Compute Integration     | DeToolIC: EDA Design Flow for Advanced Packaging/ Integration | Technical Report                                        |
-|         |          | 2.5D/3D/3.5D架构与存算一体                                   |                                                              |                                                         |
-| Week 6  | 11月22日 | Tensor Core (TensorCore) and Transformer                     | Introduction to TPU Architecture                             | Technical Report                                        |
-|         |          | 张量核心（TensorCore）与Transformer                          |                                                              |                                                         |
-| Week 7  | 11月29日 | Memory Architecture and On-Chip Network (NoC)                | GigaDevice: Advanced Memory (HBM or Hybrid Bonding DRAM)     | Technical Report                                        |
-|         |          | 存储架构与片上网络（NoC）                                    |                                                              |                                                         |
-| Week 8  | 12月6日  | GPU Programming with CUDA/OpenCL                             | A Compilation Platform                                       | Technical Report                                        |
-|         |          | GPU编程与CUDA/OpenCL                                         |                                                              |                                                         |
-| Week 9  | 12月13日 | GPU Compiler and Triton                                      | High-Level Compiler Platform                                 | Technical Report                                        |
-|         |          | GPU编译器与Triton                                            |                                                              |                                                         |
-| Week 10 | 12月20日 | GPU Deployment Acceleration and DeepSeek Optimization Principles | Cross-Platform Acceleration Framework                        | Technical Report                                        |
-|         |          | GPU部署加速与deepseek优化原理                                |                                                              |                                                         |
-
-
+| Week    | Date     | Daily Topic of Teaching Content                              | Guest/Video Sharing Content                                  | Technical Report Content                                     |
+| ------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 课周    | 日期     | 授课内容当天主题                                             | 嘉宾分享内容                                                 | 技术报告内容                                                 |
+|         |          | 9:00-9:50                                                    | 10:00-10:50                                                  | 11:00-11:50                                                  |
+| Week 1  | 10月18日 | Course Overview and GPU Introduction                         | UC Berkeley: Berkeley Approach to Graduate Education in EECS（David Patterson Video） | Data Format and Converter Design in GPU                      |
+|         |          | RIOS与零一代表讲话 课程概述与GPU简介（陈）                   | 加州伯克利：伯克利EECS教学模式（大卫·帕特森）                | GPU中的数据格式与转换                                        |
+| Week 2  | 10月25日 | SoC Design Flow and OpenEDA                                  | UC San Diego: OpenROAD-The journey so far and roadmap (Andrew Kahng) | OpenTensorCore Architecture Open3DNoC Architecture           |
+|         |          | SoC设计流程与OpenEDA（陈）                                   | 加州圣地亚哥：OpenROAD进展与路线图（Andrew Kahng）           | OpenTensorCore 架构 Open3DNoC 架构                           |
+| Week 3  | 11月1日  | RISC-V Instruction Set and Architecture                      | Synopsys：Advanced Design Flow                               | OpenRoad Architecture Analysis llama.cpp Arcitecture Analysis |
+|         |          | RISC-V指令集与架构（任）                                     |                                                              | OpenRoad架构分析 llama.cpp架构分析                           |
+| Week 4  | 11月8日  | GPU Architecture and Open-Source RISC-V GPU                  | Tsinghua: Introduction to Ventus GPGPU Architecture          | RVGPU Architecture                                           |
+|         |          | GPU架构与开源RISC-V GPU（任、陈）                            |                                                              |                                                              |
+| Week 5  | 11月15日 | 2.5D/3D/3.5D Architecture and Memory Compute Integration     | DeToolIC: EDA Design Flow for Advanced Packaging/ Integration | GigaDevice: Advanced Memory (HBM or Hybrid Bonding DRAM)     |
+|         |          | 2.5D/3D/3.5D架构与存算一体（任、陈）                         |                                                              |                                                              |
+| Week 6  | 11月22日 | Tensor Core (TensorCore) and Transformer                     | Introduction to TPU Architecture                             | Technical Report                                             |
+|         |          | 张量核心（TensorCore）与Transformer                          |                                                              |                                                              |
+| Week 7  | 11月29日 | Memory Architecture and On-Chip Network (NoC)                | Technical Report                                             | Technical Report                                             |
+|         |          | 存储架构与片上网络（NoC）                                    |                                                              |                                                              |
+| Week 8  | 12月6日  | GPU Programming with CUDA/OpenCL                             | A Compilation Platform                                       | Technical Report                                             |
+|         |          | GPU编程与CUDA/OpenCL                                         |                                                              |                                                              |
+| Week 9  | 12月13日 | GPU Compiler and Triton                                      | High-Level Compiler Platform                                 | Technical Report                                             |
+|         |          | GPU编译器与Triton                                            |                                                              |                                                              |
+| Week 10 | 12月20日 | GPU Deployment Acceleration and DeepSeek Optimization Principles | Cross-Platform Acceleration Framework                        | Technical Report                                             |
+|         |          | GPU部署加速与deepseek优化原理                                |                                                              |                                                              |
 
 ## Exploring Projects
 
