@@ -32,10 +32,10 @@ From the intricacies of the RISC-V instruction set to the grand design of GPU ma
 |         |          | 9:00-9:50                                                    | 10:00-10:50                                                  | 11:00-11:50                                                  |
 | Week 1  | 10月18日 | Course Overview and GPU Introduction                         | UC Berkeley: Berkeley Approach to Graduate Education in EECS（David Patterson Video） | Data Format and Converter Design in GPU                      |
 |         |          | RIOS与零一代表讲话 课程概述与GPU简介（陈）                   | 加州伯克利：伯克利EECS教学模式（大卫·帕特森）                | GPU中的数据格式与转换                                        |
-| Week 2  | 10月25日 | SoC Design Flow and OpenEDA                                  | UC San Diego: OpenROAD-The journey so far and roadmap (Andrew Kahng) | OpenTensorCore Architecture Open3DNoC Architecture           |
+| Week 2  | 10月25日 | SoC Design Flow and OpenEDA                                  | UC San Diego: OpenROAD-The journey so far and roadmap (Andrew Kahng) | OpenTensorCore Architecture<br>Open3DNoC Architecture           |
 |         |          | SoC设计流程与OpenEDA（陈）                                   | 加州圣地亚哥：OpenROAD进展与路线图（Andrew Kahng）           | OpenTensorCore 架构 Open3DNoC 架构                           |
-| Week 3  | 11月1日  | RISC-V Instruction Set and Architecture                      | Synopsys：Advanced Design Flow                               | OpenRoad Architecture Analysis llama.cpp Arcitecture Analysis |
-|         |          | RISC-V指令集与架构（任）                                     |                                                              | OpenRoad架构分析 llama.cpp架构分析                           |
+| Week 3  | 11月1日  | RISC-V Instruction Set and Architecture                      | Synopsys：Advanced Design Flow                               | OpenRoad Architecture Analysis llama.cpp <br>Arcitecture Analysis |
+|         |          | RISC-V指令集与架构（任）                                     |                                                              | OpenRoad架构分析 <br>llama.cpp架构分析                           |
 | Week 4  | 11月8日  | GPU Architecture and Open-Source RISC-V GPU                  | Tsinghua: Introduction to Ventus GPGPU Architecture          | RVGPU Architecture                                           |
 |         |          | GPU架构与开源RISC-V GPU（任、陈）                            |                                                              |                                                              |
 | Week 5  | 11月15日 | 2.5D/3D/3.5D Architecture and Memory Compute Integration     | DeToolIC: EDA Design Flow for Advanced Packaging/ Integration | GigaDevice: Advanced Memory (HBM or Hybrid Bonding DRAM)     |
