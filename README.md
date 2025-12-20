@@ -65,7 +65,11 @@ OpenLLMRoad
 
 ## Guest Expert
 
-![image-20251121115228535](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20251121115228535.png)
+
+
+![image-20251220192224902](https://raw.githubusercontent.com/chenweiphd/typopic/master/image-20251220192224902.png)
+
+
 
 ## Main Contributor of Lecture 
 
